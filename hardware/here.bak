@@ -18,7 +18,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "CH32X035x8x6"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28,18 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
+		(property "Footprint" "Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50,7 +39,40 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Datasheet" "https://www.wch-ic.com/products/CH32X035.html"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "USB+Type-C PD MCU"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "USB+Type-C PD MCU"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "*QFN-20-1EP*3x3mm*P0.4mm*EP1.65x1.65mm*"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
